@@ -25,7 +25,9 @@
 
 ## Lightning Talks!
 * [Sometimes it's so obvious in hindsight](https://www.youtube.com/watch?v=lq_WEM461M0) by Aaron Brooks, Clojure/conj 2017
-* [Cache::Reddit](https://www.youtube.com/watch?v=ZT4BJEIu-SY) by David Farrell, YAPC::NA 2017
+* [Cache::Reddit](https://www.youtube.com/watch?v=ZT4BJEIu-SY) by [David Farrell](https://twitter.com/PerlTricks), YAPC::NA 2017
+* [On Framing](https://chrishardie.com/files/framing-lightning.pdf) (PDF) by [Chris Hardie](https://twitter.com/chrishardie), YAPC::NA 2010
+    * [I referenced this talk to great effect a while back](https://www.activestate.com/blog/2016/06/perl-hacker-webinar#comment-2736794698)! (see comments)
 
 ## Talk title clichés
 You *could* use one of these for the title of your talk, but why not
