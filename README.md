@@ -10,10 +10,12 @@
     * Even if you don't care about Clojure or Cortex, you'd do well to watch the first 14 minutes
 * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk) by [Aja Hammerly](http://www.thagomizer.com/), RubyConf 2017
 * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4) by [Gabriel Lebec](https://twitter.com/g_lebec) (Aug 2017)
+* [Building on an unsafe foundation](https://www.youtube.com/watch?v=rTo2u13lVcQ) by Jason Orendorff, Rust Belt Rust 2017
+    * ["Rust will help you understand the rules that good C++ programmers have in their heads that they got the hard way."](https://www.youtube.com/watch?v=rTo2u13lVcQ&t=33m25s)
 * [Functional Rust - An Exploration](https://www.youtube.com/watch?v=Ve8HUfU3ELQ) by Lisa Passing, Lambda Days 2018
     * ["Once you've learned how to walk through this wall...you can walk through walls."](https://www.youtube.com/watch?v=Ve8HUfU3ELQ&t=5m55s)
-* [Building on an unsafe foundation](https://www.youtube.com/watch?v=rTo2u13lVcQ) by Jason Orendorff, Rust Belt Rust 2017
-  * ["Rust will help you understand the rules that good C++ programmers have in their heads that they got the hard way."](https://www.youtube.com/watch?v=rTo2u13lVcQ&t=33m25s)
+* [In praise of Higher Order Functions and of some friends and heroes](https://oylenshpeegul.wordpress.com/2018/04/01/in-praise-of-higher-order-functions/) by Mary Sheeran, Lambda Days 2018
+
 
 ## Talk title clichés
 You *could* use one of these for the title of your talk, but why not
