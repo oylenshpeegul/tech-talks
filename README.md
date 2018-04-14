@@ -6,6 +6,8 @@
     * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Oct 2011)
     * [Effective Programs: 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) (Oct 2017) is the only one I've seen in person.
 * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI) by Joyce Xu, Clojure/conj 2017
+    * A really understandable explanation of machine learning
+    * Even if you don't care about Clojure or Cortex, you'd do well to watch the first 14 minutes
 * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk) by [Aja Hammerly](http://www.thagomizer.com/), RubyConf 2017
 * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4) by [Gabriel Lebec](https://twitter.com/g_lebec) (Aug 2017)
 * [Functional Rust - An Exploration](https://www.youtube.com/watch?v=Ve8HUfU3ELQ) by Lisa Passing, Lambda Days 2018
