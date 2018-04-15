@@ -18,8 +18,11 @@
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
     * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey), JVM Languages Summit 2009
     * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Strange Loop 2011
+	* [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM), Jax Conference 2012
     * [Effective Programs: 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU), Clojure/conj 2017
 	    * This is the only one I've seen in person (Clojure/conj was right here in Baltimore that year!)
+* Martin Kleppmann
+    * [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0), Strange Loop 2014
 * [Gabriel Lebec](https://twitter.com/g_lebec)
     * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), August 2017
 	    * [slides and things on github](https://github.com/glebec/lambda-talk)
