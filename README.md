@@ -49,7 +49,7 @@
     * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU), Elm-conf 2017
 	* [Elm-plot: the big picture](https://www.youtube.com/watch?v=qTdXFRloYWU), Elm Europe 2017
 * Joyce Xu
-    * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI) by Joyce Xu, Clojure/conj 2017
+    * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI), Clojure/conj 2017
         * A really understandable explanation of machine learning!
         * Even if you don't care at all about Clojure or Cortex, you'd do well to watch the first 14 minutes of this talk.
 
