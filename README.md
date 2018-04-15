@@ -28,7 +28,9 @@
     * "Averages convince you you understand"
     * "Averages are lie-candy for your brain"
 	* "If your program isn't running while your program is running, how do you tell?"
-	
+* [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU) by Jay Dixit, New York Emacs Meetup 2015
+* [Boundaries](https://www.youtube.com/watch?v=eOYal8elnZk) by Gary Bernhardt
+* [All of this has happened before, and it will all happen again](https://www.youtube.com/watch?v=jmRE5pXFi04) by Mark Allen, Strange Loop 2014
 
 
 ## Lightning Talks!
@@ -38,9 +40,9 @@
     * [I referenced this talk to great effect a while back](https://www.activestate.com/blog/2016/06/perl-hacker-webinar#comment-2736794698)! (see comments)
 * [Tuning a Guitar with Science](https://www.youtube.com/watch?v=U6BwggT3wGY) by Baron Schwartz
     * [How to Tune A Guitar (Or Any Instrument)](https://www.xaprb.com/blog/2014/01/18/how-to-tune-guitar/)
-* [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU) by Jay Dixit
 * [How to read Soft Typing](https://www.youtube.com/watch?v=Jp0VKD_7pmw#t=15m) by John Cinnamond, BathRuby 2015
-    * Longer talk at RubyConf  2015: [Softly, softly typing](https://www.youtube.com/watch?v=XGLYHQ1BLfM)
+    * Longer talk at RubyConf 2015: [Softly, softly typing](https://www.youtube.com/watch?v=XGLYHQ1BLfM)
+* [Better is better‎](https://www.youtube.com/watch?v=t1lHMY8DAJY&t=40s) by Jonathan Rockaway, YAPC::NA 2012
 
 
 ## Talk title clichés
