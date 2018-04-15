@@ -15,6 +15,8 @@
     * [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU), New York Emacs Meetup 2015
 * [Aja Hammerly](http://www.thagomizer.com/)
     * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk), RubyConf 2017
+* Richard Feynman
+   * [Computers from the Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA), Idiosyncratic Thinking 1985
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
     * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey), JVM Languages Summit 2009
     * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Strange Loop 2011
@@ -22,6 +24,7 @@
     * [Effective Programs: 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU), Clojure/conj 2017
 	    * This is the only one I've seen in person (Clojure/conj was right here in Baltimore that year!)
 * Martin Kleppmann
+	* [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8), Strange Loop 2015
     * [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0), Strange Loop 2014
 * [Gabriel Lebec](https://twitter.com/g_lebec)
     * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), August 2017
@@ -44,6 +47,9 @@
 	    * ["There's three ways to lose in this game and no way to win"](https://www.youtube.com/watch?v=TcyTErqmB_4&t=19m48s)
 * Paul Phillips
     * [Things and Cothings](https://www.youtube.com/watch?v=gqSBM_kLJaI), Scala World 2015
+* Rob Pike
+    * [Concurrency Is Not Parallelism](https://vimeo.com/49718712), Waza 2012
+	    * [blog post with links to slides](https://blog.golang.org/concurrency-is-not-parallelism)
 * Amar Shah
     * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk), Strange Loop 2016
 * Mary Sheeran
@@ -56,6 +62,12 @@
 	    * ["Don't you think it's ironic that type theorists, who want to talk about strongly-typed languages in a rigorous manner, talk to themselves with an untyped language that has no rigorous specification?"](https://www.youtube.com/watch?v=dCuZkaaou0Q&t=9m)
     * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0), OOPSLA 1998
 	* [Data Parallel Algorithms](https://www.youtube.com/watch?v=33ZrIt-iGM4), MIT 1990
+* [Bret Victor](http://worrydream.com/)
+    * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4), DBX 2013
+* Philip Wadler
+    * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+* Jim Weinrich
+    * [Y Not - Adventures in Functional Programming](https://www.youtube.com/watch?v=FITJMJjASUs), RubyConf 2012
 * Joyce Xu
     * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI), Clojure/conj 2017
         * A really understandable explanation of machine learning!
@@ -72,6 +84,8 @@
 * Jonathan Rockaway: [Better is better‎](https://www.youtube.com/watch?v=t1lHMY8DAJY&t=40s), YAPC::NA 2012
 * Baron Schwartz: [Tuning a Guitar with Science](https://www.youtube.com/watch?v=U6BwggT3wGY)
     * [How to Tune A Guitar (Or Any Instrument)](https://www.xaprb.com/blog/2014/01/18/how-to-tune-guitar/)
+* Doug Zongker: [Chicken Chicken Chicken: Chicken Chicken](https://www.youtube.com/watch?v=yL_-1d9OSdk), AAAS 2007
+    * [There is also a paper](https://isotropic.org/papers/chicken.pdf)
 
 ## Talk title clichés
 You *could* use one of these for the title of your talk, but why not
