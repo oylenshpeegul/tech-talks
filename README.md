@@ -16,12 +16,13 @@
 * [Aja Hammerly](http://www.thagomizer.com/)
     * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk), RubyConf 2017
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
-    * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey), Nov 2009
-    * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Oct 2011
+    * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey), JVM Languages Summit 2009
+    * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Strange Loop 2011
     * [Effective Programs: 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU), Clojure/conj 2017
 	    * This is the only one I've seen in person (Clojure/conj was right here in Baltimore that year!)
 * [Gabriel Lebec](https://twitter.com/g_lebec)
-    * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Aug 2017
+    * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), August 2017
+	    * [slides and things on github](https://github.com/glebec/lambda-talk)
 * Jennifer Lewis
     * [Clojure Dispatches from a National Research Lab](https://www.youtube.com/watch?v=pjFmF6pezsw), Clojure/west 2017
 * Tim Mecklem
@@ -44,6 +45,9 @@
     * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk), Strange Loop 2016
 * Mary Sheeran
     * [In praise of Higher Order Functions and of some friends and heroes](https://oylenshpeegul.wordpress.com/2018/04/01/in-praise-of-higher-order-functions/), Lambda Days 2018
+* Tereza Sokol
+    * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU), Elm-conf 2017
+	* [Elm-plot: the big picture](https://www.youtube.com/watch?v=qTdXFRloYWU), Elm Europe 2017
 * Joyce Xu
     * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI) by Joyce Xu, Clojure/conj 2017
         * A really understandable explanation of machine learning!
