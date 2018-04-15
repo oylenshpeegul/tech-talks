@@ -22,12 +22,26 @@
 * [In praise of Higher Order Functions and of some friends and heroes](https://oylenshpeegul.wordpress.com/2018/04/01/in-praise-of-higher-order-functions/) by Mary Sheeran, Lambda Days 2018
 * [You really should know a little bit of Clojure](https://www.youtube.com/watch?v=c9TSQJPKs6A) by Ben Orenstein, RubyConf Uruguay 2014
 * [Clojure Dispatches from a National Research Lab](https://www.youtube.com/watch?v=pjFmF6pezsw) by Jennifer Lewis, Clojure/west 2017
+* [Things and Cothings](https://www.youtube.com/watch?v=gqSBM_kLJaI) by Paul Phillips, Scala World 2015
+* [Point-Free or Die: Tacit Programming in Haskell and Beyond](ttps://www.youtube.com/watch?v=seVSlKazsNk) by Amar Shah, Strange Loop 2016
+* [Lies, Damn Lies, and Metrics](https://www.youtube.com/watch?v=pYbgcDfM2Ts) by André Arko
+    * "Averages convince you you understand"
+    * "Averages are lie-candy for your brain"
+	* "If your program isn't running while your program is running, how do you tell?"
+	
+
 
 ## Lightning Talks!
 * [Sometimes it's so obvious in hindsight](https://www.youtube.com/watch?v=lq_WEM461M0) by Aaron Brooks, Clojure/conj 2017
 * [Cache::Reddit](https://www.youtube.com/watch?v=ZT4BJEIu-SY) by [David Farrell](https://twitter.com/PerlTricks), YAPC::NA 2017
 * [On Framing](https://chrishardie.com/files/framing-lightning.pdf) (PDF) by [Chris Hardie](https://twitter.com/chrishardie), YAPC::NA 2010
     * [I referenced this talk to great effect a while back](https://www.activestate.com/blog/2016/06/perl-hacker-webinar#comment-2736794698)! (see comments)
+* [Tuning a Guitar with Science](https://www.youtube.com/watch?v=U6BwggT3wGY) by Baron Schwartz
+    * [How to Tune A Guitar (Or Any Instrument)](https://www.xaprb.com/blog/2014/01/18/how-to-tune-guitar/)
+* [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU) by Jay Dixit
+* [How to read Soft Typing](https://www.youtube.com/watch?v=Jp0VKD_7pmw#t=15m) by John Cinnamond, BathRuby 2015
+    * Longer talk at RubyConf  2015: [Softly, softly typing](https://www.youtube.com/watch?v=XGLYHQ1BLfM)
+
 
 ## Talk title clichés
 You *could* use one of these for the title of your talk, but why not
