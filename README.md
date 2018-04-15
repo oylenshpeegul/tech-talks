@@ -13,8 +13,8 @@
 	* [Making video games and learning Clojure](https://www.youtube.com/watch?v=TcyTErqmB_4), clojureD 2017
 	    * ["There's three ways to lose in this game and no way to win"](https://www.youtube.com/watch?v=TcyTErqmB_4&t=19m48s)
 * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI) by Joyce Xu, Clojure/conj 2017
-    * A really understandable explanation of machine learning
-    * Even if you don't care about Clojure or Cortex, you'd do well to watch the first 14 minutes
+    * A really understandable explanation of machine learning!
+    * Even if you don't care anything about Clojure or Cortex, you'd do well to watch the first 14 minutes of this talk.
 * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk) by [Aja Hammerly](http://www.thagomizer.com/), RubyConf 2017
 * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4) by [Gabriel Lebec](https://twitter.com/g_lebec) (Aug 2017)
 * [Building on an unsafe foundation](https://www.youtube.com/watch?v=rTo2u13lVcQ) by Jason Orendorff, Rust Belt Rust 2017
@@ -23,7 +23,7 @@
 * [You really should know a little bit of Clojure](https://www.youtube.com/watch?v=c9TSQJPKs6A) by Ben Orenstein, RubyConf Uruguay 2014
 * [Clojure Dispatches from a National Research Lab](https://www.youtube.com/watch?v=pjFmF6pezsw) by Jennifer Lewis, Clojure/west 2017
 * [Things and Cothings](https://www.youtube.com/watch?v=gqSBM_kLJaI) by Paul Phillips, Scala World 2015
-* [Point-Free or Die: Tacit Programming in Haskell and Beyond](ttps://www.youtube.com/watch?v=seVSlKazsNk) by Amar Shah, Strange Loop 2016
+* [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) by Amar Shah, Strange Loop 2016
 * [Lies, Damn Lies, and Metrics](https://www.youtube.com/watch?v=pYbgcDfM2Ts) by André Arko
     * "Averages convince you you understand"
     * "Averages are lie-candy for your brain"
