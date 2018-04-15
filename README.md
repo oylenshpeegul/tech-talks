@@ -51,6 +51,11 @@
 * Tereza Sokol
     * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU), Elm-conf 2017
 	* [Elm-plot: the big picture](https://www.youtube.com/watch?v=qTdXFRloYWU), Elm Europe 2017
+* Guy Steele
+	* [It's Time for a New Old Language](https://www.youtube.com/watch?v=dCuZkaaou0Q), Clojure/conj 2017
+	    * ["Don't you think it's ironic that type theorists, who want to talk about strongly-typed languages in a rigorous manner, talk to themselves with an untyped language that has no rigorous specification?"](https://www.youtube.com/watch?v=dCuZkaaou0Q&t=9m)
+    * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0), OOPSLA 1998
+	* [Data Parallel Algorithms](https://www.youtube.com/watch?v=33ZrIt-iGM4), MIT 1990
 * Joyce Xu
     * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI), Clojure/conj 2017
         * A really understandable explanation of machine learning!
