@@ -11,6 +11,10 @@
 * [Gary Bernhardt](https://www.destroyallsoftware.com/talks)
     * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
     * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+* Runar Bjarnason
+    * [Constraints Liberate, Liberties Constrain](https://www.youtube.com/watch?v=GqmsQeSzMdw)
+	* [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+	* [Design Principles From Functional Programming](https://corecursive.com/004-design-principles-from-functional-programming-with-runar-bjarnason)
 * Jay Dixit
     * [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU), New York Emacs Meetup 2015
 * [Aja Hammerly](http://www.thagomizer.com/)
