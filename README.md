@@ -22,7 +22,7 @@
 * Richard Feynman
    * [Computers from the Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA), Idiosyncratic Thinking 1985
 * [Evelina Gabašová](https://twitter.com/evelgab)
-   * [Tabs, spaces and salaries: a data science detective story](https://www.youtube.com/watch?v=qrjHYXFy62E)
+   * [Tabs, spaces and salaries: a data science detective story](https://www.youtube.com/watch?v=qrjHYXFy62E), NDC Oslo 2018
 * [Aja Hammerly](http://www.thagomizer.com/)
     * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk), RubyConf 2017
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
