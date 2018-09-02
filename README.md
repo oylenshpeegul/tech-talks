@@ -29,6 +29,7 @@
     * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey), JVM Languages Summit 2009
     * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Strange Loop 2011
 	* [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM), Jax Conference 2012
+	* [Design, Composition, and Performance](http://infoq.com/presentations/Design-Composition-Performance), Emerging Technologies for the Enterprise 2013
     * [Effective Programs: 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU), Clojure/conj 2017
 	    * This is the only one I've seen in person (Clojure/conj was right here in Baltimore that year!)
 * Martin Kleppmann
