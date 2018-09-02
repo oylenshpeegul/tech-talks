@@ -42,6 +42,8 @@
     * [Clojure Dispatches from a National Research Lab](https://www.youtube.com/watch?v=pjFmF6pezsw), Clojure/west 2017
 * Tim Mecklem
     * [Building an Artificial Pancreas with Elixir and Nerves](https://www.youtube.com/watch?v=ARQD4BN_5ns), ElixirConf 2017
+* James Mickens
+    * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens), USENIX Security Symposium 2018
 * Jason Orendorff
     * [Building on an unsafe foundation](https://www.youtube.com/watch?v=rTo2u13lVcQ) Rust Belt Rust 2017
         * ["Rust will help you understand the rules that good C++ programmers have in their heads that they got the hard way."](https://www.youtube.com/watch?v=rTo2u13lVcQ&t=33m25s)
