@@ -15,6 +15,14 @@
     * [Constraints Liberate, Liberties Constrain](https://www.youtube.com/watch?v=GqmsQeSzMdw), Scala World 2015
 	* [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U), Northeast Scala Symposium 2014
 	* [Design Principles From Functional Programming](https://corecursive.com/004-design-principles-from-functional-programming-with-runar-bjarnason), (podcast) January 2018
+* [Eugenia Cheng](http://eugeniacheng.com/)
+    * [Category Theory and Life](https://www.youtube.com/watch?v=cSRVywjDP8E), YOW! Lambda Jam 2018
+	    * "You can make all your dreams come true, just by having the right dreams."
+        * "I dream of having coffee every morning...and it comes true!"
+        * (on identities) "It's not very interesting, but it's very important. Just like lots of people, who are not very interesting, but are very important."
+        * "The smallest possible category is very difficult to draw because it's empty. So (gesturing at a blank page) there it is."
+        * (on duality) "If you look at someone from behind, is it a different person?"
+        * "Smoothies are not a free construction."
 * Jay Dixit
     * [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU), New York Emacs Meetup 2015
 * Michael Feathers
