@@ -54,7 +54,8 @@
 * James Mickens
     * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens), USENIX Security Symposium 2018
 * Yaron Minsky
-    * [Effective ML](https://www.youtube.com/watch?v=DM2hEBwEWPc), Harvard 2012
+    * [Effective ML](https://www.youtube.com/watch?v=-J8YyfrSwTk), Harvard CS51 class 2010
+	* Effective ML [part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) and [part 2](https://www.youtube.com/watch?v=tXtztf3GNTo), Harvard CS51 class 2011
     * [Types, and Why You Should Care](https://www.youtube.com/watch?v=0arFPIQatCU), Recurse Center 2018
     * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE), Strange Loop 2018
 * Jason Orendorff
