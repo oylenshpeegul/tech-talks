@@ -53,6 +53,9 @@
     * [Building an Artificial Pancreas with Elixir and Nerves](https://www.youtube.com/watch?v=ARQD4BN_5ns), ElixirConf 2017
 * James Mickens
     * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens), USENIX Security Symposium 2018
+* [Bartosz Milewski](https://bartoszmilewski.com/)
+    * [Truth about Types](https://www.youtube.com/watch?v=dgrucfgv2Tw), [Lambda Days 2016](http://www.lambdadays.org/lambdadays2016/bartosz-milewski)
+	    * Unintended pun? ["One attempt at this is homotopy type theory (HoTT), which is very hot right now."](https://www.youtube.com/watch?v=dgrucfgv2Tw&t=1h11m25s)
 * Yaron Minsky
     * [Effective ML](https://www.youtube.com/watch?v=-J8YyfrSwTk), Harvard CS51 class 2010
 	* Effective ML [part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) and [part 2](https://www.youtube.com/watch?v=tXtztf3GNTo), Harvard CS51 class 2011
