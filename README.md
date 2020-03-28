@@ -24,6 +24,8 @@
         * (on duality) "If you look at someone from behind, is it a different person?"
         * "Smoothies are not a free construction."
 	* [The Art of Logic: How to Make Sense in a World that Doesn't](https://www.youtube.com/watch?v=YHZKX0H6cUE), Talks at Google 2018
+* Ben Dechrai
+    * [Writing Viruses for Fun, not Profit](https://www.youtube.com/watch?v=2Ra1CCG8Guo)
 * Jay Dixit
     * [Emacs For Writers](https://www.youtube.com/watch?v=FtieBc3KptU), New York Emacs Meetup 2015
 * Michael Feathers
