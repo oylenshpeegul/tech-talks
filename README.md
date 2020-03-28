@@ -103,6 +103,12 @@
     * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 * Jim Weinrich
     * [Y Not - Adventures in Functional Programming](https://www.youtube.com/watch?v=FITJMJjASUs), RubyConf 2012
+* Scott Wlaschin
+    * [Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU), Explore DDD 2019
+	* [The Functional Programmer's Toolkit](https://www.youtube.com/watch?v=Nrp_LZ-XGsY), NDC London 2019
+	* ["One of the things I've started doing in consulting is to *stop* using labels and jargon as much as possible. It's so easy for words to become fetishized. And then the *label itself* becomes the goal"](https://twitter.com/ScottWlaschin/status/1183318223384657927) -- [@ScottWlaschin](https://twitter.com/ScottWlaschin)
+	* [The power of composition](https://www.youtube.com/watch?v=oquuPOkz8xo), DotNext 2019 Moscow
+	    * [Video for my "Power of Composition" talk at @DotNextConf is now up. Every time I do it I tweak it a bit to make it better, so this is my favorite version so far :)](https://twitter.com/ScottWlaschin/status/1198341714366402561) -- [@ScottWlaschin](https://twitter.com/ScottWlaschin)
 * Joyce Xu
     * [Building Machine Learning Models with Clojure and Cortex](https://www.youtube.com/watch?v=0m6wz2vClQI), Clojure/conj 2017
         * A really understandable explanation of machine learning!
