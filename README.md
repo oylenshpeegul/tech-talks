@@ -29,9 +29,16 @@
 * Michael Feathers
     * [Unconditional Code](https://www.youtube.com/watch?v=AnZ0uTOerUI), GOTO Chicago 2018
 * Richard Feynman
-   * [Computers from the Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA), Idiosyncratic Thinking 1985
+    * [Computers from the Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA), Idiosyncratic Thinking 1985
 * [Evelina Gabašová](https://twitter.com/evelgab)
-   * [Tabs, spaces and salaries: a data science detective story](https://www.youtube.com/watch?v=qrjHYXFy62E), NDC Oslo 2018
+    * [Tabs, spaces and salaries: a data science detective story](https://www.youtube.com/watch?v=qrjHYXFy62E), NDC Oslo 2018
+* Alex Gaynor and Geoffrey Thomas
+    * [Writing Linux Kernel Modules in Safe Rust](https://www.youtube.com/watch?v=RyY01fRyGhM) 
+        * ["But these are all silly user-space problems; kernel programmers are very serious and would not introduce the same sorts of bugs into their programs. So surely the numbers are more promising about kernel space."](https://www.youtube.com/watch?v=RyY01fRyGhM&t=1m45s)
+    * [Alex Gaynor's blog](https://alexgaynor.net/)
+        * [Modern C++ Won't Save Us](https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/)
+        * [Introduction to Memory Unsafety for VPs of Engineering](https://alexgaynor.net/2019/aug/12/introduction-to-memory-unsafety-for-vps-of-engineering/)
+        * [DevOps vs. Platform Engineering](https://alexgaynor.net/2015/mar/06/devops-vs-platform-engineering/)
 * [Aja Hammerly](http://www.thagomizer.com/)
     * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk), RubyConf 2017
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
