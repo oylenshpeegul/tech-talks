@@ -133,6 +133,9 @@
 * Doug Zongker: [Chicken Chicken Chicken: Chicken Chicken](https://www.youtube.com/watch?v=yL_-1d9OSdk), AAAS 2007
     * [There is also a paper](https://isotropic.org/papers/chicken.pdf)
 
+## More links
+* [Talks I liked](https://hmemcpy.com/talks-i-liked/), by Igal Tabachnik [@hmemcpy](https://twitter.com/hmemcpy/status/1243501704177504257)
+
 ## Talk title clichés
 You *could* use one of these for the title of your talk, but why not
 think of a good name instead?
