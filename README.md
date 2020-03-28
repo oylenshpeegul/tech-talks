@@ -85,6 +85,11 @@
 * Rob Pike
     * [Concurrency Is Not Parallelism](https://vimeo.com/49718712), Waza 2012
 	    * [blog post with links to slides](https://blog.golang.org/concurrency-is-not-parallelism)
+* Emily Riehl
+    * Stable Marriage Problem [part 1](https://www.youtube.com/watch?v=Qcv1IqHWAzg) and [part 2](https://www.youtube.com/watch?v=LtTV6rIxhdo), Numberphile
+    * [A Categorical View of Computational Effects](https://www.youtube.com/watch?v=6t6bsWVOIzs), C◦mp◦se :: Conference 2017
+    * [A categorical view of computational effects](https://www.youtube.com/watch?v=Ssx2_JKpB3U), Lambda World 2019
+	    * ["Programs should form a category. In other words, programs should be composable."](https://www.youtube.com/watch?v=Ssx2_JKpB3U&t=17m35s)
 * Amar Shah
     * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk), Strange Loop 2016
 * Mary Sheeran
