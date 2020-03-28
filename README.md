@@ -66,6 +66,8 @@
     * [Clojure Dispatches from a National Research Lab](https://www.youtube.com/watch?v=pjFmF6pezsw), Clojure/west 2017
 * Tim Mecklem
     * [Building an Artificial Pancreas with Elixir and Nerves](https://www.youtube.com/watch?v=ARQD4BN_5ns), ElixirConf 2017
+* Chris McCord
+    * [Phoenix LiveView - Interactive Apps without Javascript](https://www.youtube.com/watch?v=8xJzHq8ru0M), ElixirConf EU 2019
 * James Mickens
     * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens), USENIX Security Symposium 2018
 * [Bartosz Milewski](https://bartoszmilewski.com/)
