@@ -81,6 +81,8 @@
 	* Effective ML [part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) and [part 2](https://www.youtube.com/watch?v=tXtztf3GNTo), Harvard CS51 class 2011
     * [Types, and Why You Should Care](https://www.youtube.com/watch?v=0arFPIQatCU), Recurse Center 2018
     * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE), Strange Loop 2018
+* Carol Nichols
+    * [Rust: A Language for the Next 40 Years](https://www.youtube.com/watch?v=A3AdN7U24iU), Philly ETE 2019
 * Jason Orendorff
     * [Building on an unsafe foundation](https://www.youtube.com/watch?v=rTo2u13lVcQ) Rust Belt Rust 2017
         * ["Rust will help you understand the rules that good C++ programmers have in their heads that they got the hard way."](https://www.youtube.com/watch?v=rTo2u13lVcQ&t=33m25s)
