@@ -54,6 +54,9 @@
 * Martin Kleppmann
 	* [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8), Strange Loop 2015
     * [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0), Strange Loop 2014
+* Lindsey Kuper
+    * [Abstractions for Expressive, Efficient Parallel and Distributed Computing](https://www.youtube.com/watch?v=4h7YBUXiCZE)
+	    * ["These tasks are not so much sharing as fighting viciously over a piece of state."](https://www.youtube.com/watch?v=4h7YBUXiCZE&t=6m45s)
 * [Gabriel Lebec](https://twitter.com/g_lebec)
     * [A Flock of Functions: Combinators, Lambda Calculus & Church Encodings in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), August 2017
 	    * [slides and things on github](https://github.com/glebec/lambda-talk)
