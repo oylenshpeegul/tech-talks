@@ -33,7 +33,7 @@
 * [Evelina Gabašová](https://twitter.com/evelgab)
     * [Tabs, spaces and salaries: a data science detective story](https://www.youtube.com/watch?v=qrjHYXFy62E), NDC Oslo 2018
 * Alex Gaynor and Geoffrey Thomas
-    * [Writing Linux Kernel Modules in Safe Rust](https://www.youtube.com/watch?v=RyY01fRyGhM) 
+    * [Writing Linux Kernel Modules in Safe Rust](https://www.youtube.com/watch?v=RyY01fRyGhM), Linux Security Summit 2019
         * ["But these are all silly user-space problems; kernel programmers are very serious and would not introduce the same sorts of bugs into their programs. So surely the numbers are more promising about kernel space."](https://www.youtube.com/watch?v=RyY01fRyGhM&t=1m45s)
     * [Alex Gaynor's blog](https://alexgaynor.net/)
         * [Modern C++ Won't Save Us](https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/)
