@@ -30,6 +30,9 @@
     * [Unconditional Code](https://www.youtube.com/watch?v=AnZ0uTOerUI), GOTO Chicago 2018
 * Richard Feynman
     * [Computers from the Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA), Idiosyncratic Thinking 1985
+* [Brendan Fong](http://brendanfong.com/)
+    * [18.S097: Applied Category Theory](http://brendanfong.com/7sketches.html), with David Spivak, MIT 2019
+	* [18.S097: Programming with Categories](http://brendanfong.com/programmingcats.html), with David Spivak and Bartosz Milewski, MIT 2020
 * [Evelina Gabašová](https://twitter.com/evelgab)
     * [Tabs, spaces and salaries: a data science detective story](https://www.youtube.com/watch?v=qrjHYXFy62E), NDC Oslo 2018
 * Alex Gaynor and Geoffrey Thomas
@@ -100,6 +103,15 @@
 * Tereza Sokol
     * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU), Elm-conf 2017
 	* [Elm-plot: the big picture](https://www.youtube.com/watch?v=qTdXFRloYWU), Elm Europe 2017
+* David Spivak
+    * Category Theory - λConf 2017
+        * [Part 1](https://www.youtube.com/watch?v=IBeceQHz2x8)
+        * [Part 2](https://www.youtube.com/watch?v=edm-bHa1gXY)
+        * [Part 3](https://www.youtube.com/watch?v=sMzs_b9o2kM)
+        * [Part 4](https://www.youtube.com/watch?v=lvdzqLjajLg)
+        * [Part 5](https://www.youtube.com/watch?v=VS4-W1B-38E)
+        * [Part 6](https://www.youtube.com/watch?v=Ks37ZbtkRIA)
+    * (see also Brendan Fong, above)
 * Guy Steele
 	* [It's Time for a New Old Language](https://www.youtube.com/watch?v=dCuZkaaou0Q), Clojure/conj 2017
 	    * ["Don't you think it's ironic that type theorists, who want to talk about strongly-typed languages in a rigorous manner, talk to themselves with an untyped language that has no rigorous specification?"](https://www.youtube.com/watch?v=dCuZkaaou0Q&t=9m)
