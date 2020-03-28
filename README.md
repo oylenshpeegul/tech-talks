@@ -109,6 +109,8 @@
 	    * ["Programs should form a category. In other words, programs should be composable."](https://www.youtube.com/watch?v=Ssx2_JKpB3U&t=17m35s)
 * Amar Shah
     * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk), Strange Loop 2016
+* Emily Shea
+    * [Perl Out Loud](https://www.youtube.com/watch?v=Mz3JeYfBTcY), YAPC::NA 2019
 * Mary Sheeran
     * [In praise of Higher Order Functions and of some friends and heroes](https://oylenshpeegul.wordpress.com/2018/04/01/in-praise-of-higher-order-functions/), Lambda Days 2018
 * Tereza Sokol
