@@ -108,6 +108,9 @@
     * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 * Jim Weinrich
     * [Y Not - Adventures in Functional Programming](https://www.youtube.com/watch?v=FITJMJjASUs), RubyConf 2012
+* George Wilson
+    * [An Intuition for Propagators](https://www.youtube.com/watch?v=nY1BCv3xn24), C◦mp◦se :: Conference Melbourne 2019
+	    * I often say things like, "if you can get mathematicians to work on your problem, you should" and "if mathematicians have already solved your problem, you should look at their solution." Wilson says kind of the same thing [near the end](https://www.youtube.com/watch?v=nY1BCv3xn24&t=23m). 
 * Scott Wlaschin
     * [Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU), Explore DDD 2019
 	* [The Functional Programmer's Toolkit](https://www.youtube.com/watch?v=Nrp_LZ-XGsY), NDC London 2019
