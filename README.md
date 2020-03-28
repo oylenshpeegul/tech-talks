@@ -137,6 +137,7 @@
 * Jim Weinrich
     * [Y Not - Adventures in Functional Programming](https://www.youtube.com/watch?v=FITJMJjASUs), RubyConf 2012
 * George Wilson
+    * [Functional Programming in Education](https://www.youtube.com/watch?v=yLTgPuOrUmI), YOW! Lambda Jam 2019
     * [An Intuition for Propagators](https://www.youtube.com/watch?v=nY1BCv3xn24), C◦mp◦se :: Conference Melbourne 2019
 	    * I often say things like, "if you can get mathematicians to work on your problem, you should" and "if mathematicians have already solved your problem, you should look at their solution." Wilson says kind of the same thing [near the end](https://www.youtube.com/watch?v=nY1BCv3xn24&t=23m) here. 
 * Scott Wlaschin
