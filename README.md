@@ -63,6 +63,9 @@
 * [Bartosz Milewski](https://bartoszmilewski.com/)
     * [Truth about Types](https://www.youtube.com/watch?v=dgrucfgv2Tw), [Lambda Days 2016](http://www.lambdadays.org/lambdadays2016/bartosz-milewski)
 	    * Unintended pun? ["One attempt at this is homotopy type theory (HoTT), which is very hot right now."](https://www.youtube.com/watch?v=dgrucfgv2Tw&t=1h11m25s)
+	* [Category Theory playlist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+	* [Category Theory II playlist](https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm)
+	* [Category Theory III playlist](https://www.youtube.com/playlist?list=PLbgaMIhjbmEn64WVX4B08B4h2rOtueWIL)
 * Yaron Minsky
     * [Effective ML](https://www.youtube.com/watch?v=-J8YyfrSwTk), Harvard CS51 class 2010
 	* Effective ML [part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) and [part 2](https://www.youtube.com/watch?v=tXtztf3GNTo), Harvard CS51 class 2011
@@ -110,7 +113,7 @@
     * [Y Not - Adventures in Functional Programming](https://www.youtube.com/watch?v=FITJMJjASUs), RubyConf 2012
 * George Wilson
     * [An Intuition for Propagators](https://www.youtube.com/watch?v=nY1BCv3xn24), C◦mp◦se :: Conference Melbourne 2019
-	    * I often say things like, "if you can get mathematicians to work on your problem, you should" and "if mathematicians have already solved your problem, you should look at their solution." Wilson says kind of the same thing [near the end](https://www.youtube.com/watch?v=nY1BCv3xn24&t=23m). 
+	    * I often say things like, "if you can get mathematicians to work on your problem, you should" and "if mathematicians have already solved your problem, you should look at their solution." Wilson says kind of the same thing [near the end](https://www.youtube.com/watch?v=nY1BCv3xn24&t=23m) here. 
 * Scott Wlaschin
     * [Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU), Explore DDD 2019
 	* [The Functional Programmer's Toolkit](https://www.youtube.com/watch?v=Nrp_LZ-XGsY), NDC London 2019
