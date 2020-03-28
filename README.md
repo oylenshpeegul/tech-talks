@@ -46,6 +46,8 @@
         * [DevOps vs. Platform Engineering](https://alexgaynor.net/2015/mar/06/devops-vs-platform-engineering/)
 * [Aja Hammerly](http://www.thagomizer.com/)
     * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk), RubyConf 2017
+* Markus Hauck
+    * [When Everything Fits: The Beauty of Composition](https://www.youtube.com/watch?v=sHV4qhbZHgo&list=PLvpxTO82X_WIuYvwvpzOLR3b0Eax84DUD&index=2), flatMap Oslo 2019
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
     * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey), JVM Languages Summit 2009
     * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy), Strange Loop 2011
