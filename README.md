@@ -117,6 +117,8 @@
     * [Perl Out Loud](https://www.youtube.com/watch?v=Mz3JeYfBTcY), YAPC::NA 2019
 * Mary Sheeran
     * [In praise of Higher Order Functions and of some friends and heroes](https://oylenshpeegul.wordpress.com/2018/04/01/in-praise-of-higher-order-functions/), Lambda Days 2018
+* Stuart Sierra
+    * [Homoiconicity: It Is What It Is](https://www.youtube.com/watch?v=o7zyGMcav3c)
 * Tereza Sokol
     * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU), Elm-conf 2017
 	* [Elm-plot: the big picture](https://www.youtube.com/watch?v=qTdXFRloYWU), Elm Europe 2017
