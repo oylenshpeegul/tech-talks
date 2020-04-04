@@ -55,6 +55,9 @@
 	* [Design, Composition, and Performance](http://infoq.com/presentations/Design-Composition-Performance), Emerging Technologies for the Enterprise 2013
     * [Effective Programs: 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU), Clojure/conj 2017
 	    * This is the only one I've seen in person (Clojure/conj was right here in Baltimore that year!)
+* Heidi Howard
+    * [Distributed Consensus Revised](https://www.youtube.com/watch?v=Pqc6X3sj6q8), PWLConf 2019
+	* [SERadio Episode 377: Heidi Howard on Distributed Consensus](https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/) (podcast)
 * Martin Kleppmann
 	* [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8), Strange Loop 2015
     * [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0), Strange Loop 2014
