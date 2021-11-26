@@ -141,9 +141,9 @@
     * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0), OOPSLA 1998
 	* [Data Parallel Algorithms](https://www.youtube.com/watch?v=33ZrIt-iGM4), MIT 1990
 * [Tom Stuart](https://tomstu.art/)
-    * [Programming with Nothing](https://tomstu.art/programming-with-nothing) (2011)
-    * [I Have No Idea What I’m Doing](https://tomstu.art/i-have-no-idea-what-im-doing) (2014)
     * [Progamming with Something](https://tomstu.art/programming-with-something) (2021)
+        * [Programming with Nothing](https://tomstu.art/programming-with-nothing) (2011)
+    * [I Have No Idea What I’m Doing](https://tomstu.art/i-have-no-idea-what-im-doing) (2014)
     * [Lots more!](https://tomstu.art/talks)
 * [Bret Victor](http://worrydream.com/)
     * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4), DBX 2013
