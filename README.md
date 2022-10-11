@@ -3,6 +3,10 @@
 ## Some talks that I really enjoyed
 * Mark Allen
     * [All of this has happened before, and it will all happen again](https://www.youtube.com/watch?v=jmRE5pXFi04), Strange Loop 2014
+* Jade Allen
+    * [All About Regular Expressions](https://www.youtube.com/watch?v=S1pseKYYd4c), Strange Loop 2022
+        * Stephen Kleene pronounced his name CLAY-nee.
+        * PCRE is by Philip Hazel
 * André Arko
     * [Lies, Damn Lies, and Metrics](https://www.youtube.com/watch?v=pYbgcDfM2Ts)
         * "Averages convince you you understand"
