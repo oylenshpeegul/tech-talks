@@ -54,6 +54,8 @@
         * [DevOps vs. Platform Engineering](https://alexgaynor.net/2015/mar/06/devops-vs-platform-engineering/)
 * [Aja Hammerly](http://www.thagomizer.com/)
     * [4 Programming Paradigms in 45 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk), RubyConf 2017
+* Gjeta Gjyshinca
+    * [Monad I Love You Now Get Out Of My Type System](https://www.youtube.com/watch?v=2PxsyWqZ5dI), Strange Loop 2022
 * Markus Hauck
     * [When Everything Fits: The Beauty of Composition](https://www.youtube.com/watch?v=sHV4qhbZHgo&list=PLvpxTO82X_WIuYvwvpzOLR3b0Eax84DUD&index=2), flatMap Oslo 2019
 * [Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)
